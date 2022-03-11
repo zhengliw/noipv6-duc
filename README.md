@@ -1,0 +1,2 @@
+# noipv6-duc
+THE ULTIMATE NO-IP IPV6 DUC. JUST WORKS.
