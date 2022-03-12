@@ -28,6 +28,7 @@ If it is the first ip, set the whichOne variable to 0. Is it the second, set whi
 Let me show:
 
 test-ipv6.com says xxxx:xxx:xxxx:xxxx:xxxx:xxxx:xxxx:3d18
+
 hostname -I says 192.168.0.xxx xxx:xxx:xxx:xxxx:xxxx:xxxx:xxxx:3d18 xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx 
 
 So it's the second one. In this case, set whichOne to 1.
