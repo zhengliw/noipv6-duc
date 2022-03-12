@@ -1,5 +1,6 @@
 # noipv6-duc
 THE ULTIMATE NO-IP IPV6 DUC. JUST WORKS.
+Wait a minute, just found a critical bug in this script which leads to hours of trouble shooting. Maybe don't bother with it before I fix dis.
 
 ## How does this work?
 
