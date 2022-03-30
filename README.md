@@ -1,4 +1,7 @@
 # noipv6-duc
+! I stopped maintaining since my router doesn't let me do port forwarding properly so i can't test this script reliably
+
+
 THE ULTIMATE NO-IP IPV6 DUC. JUST WORKS.
 Wait a minute, just found a critical bug in this script which leads to hours of trouble shooting. Maybe don't bother with it before I fix dis.
 
